@@ -1,8 +1,0 @@
-{
-    "apiservice_host": "http://echovr.sprock.io:7777/api",
-    "configservice_host": "ws://echovr.sprock.io:7777/config",
-    "loginservice_host": "ws://echovr.sprock.io:7777/login?auth=changeme&displayname=SkillIssue",
-    "matchingservice_host": "ws://echovr.sprock.io:7777/matching",
-    "transactionservice_host": "ws://echovr.sprock.io:7777/transaction",
-    "publisher_lock": "rad15_live"
-}
